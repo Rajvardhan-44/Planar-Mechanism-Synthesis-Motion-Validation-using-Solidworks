@@ -7,7 +7,7 @@ A partial circular object of radius **5 cm** must move through three prescribed 
 - Motion sequence:
   - **A → B**
   - **B → C**
-  - **C → A** (2× faster, thorugh B)
+  - **C → A** (2× faster, through B)
 
 - The object's **center does not translate horizontally**.
 - The center only moves **vertically**.
