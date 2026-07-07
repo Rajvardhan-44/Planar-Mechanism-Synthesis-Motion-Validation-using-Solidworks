@@ -25,4 +25,5 @@ The synthesized mechanism and its motion can be viewed here:
 
 📐 **SolidWorks Mechanism Sketch**  
 [Mechanism_synthesis_sketch-1](https://drive.google.com/file/d/1cG5SfRa2W47OBEFmOiQfYwpkE1jfV_Ii/view?usp=drive_link)
+
 [Mechanism_synthesis_sketch-2](https://drive.google.com/file/d/1Su_VywO-SUIyNIndkarsyElxTbAf9rgE/view?usp=drive_link)
