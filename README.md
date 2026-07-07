@@ -21,7 +21,8 @@ A partial circular object of radius **5 cm** must move through three prescribed 
 The synthesized mechanism and its motion can be viewed here:
 
 🎥 **Simulation Video**  
-[Video_mechanism_synthesis](https://drive.google.com/file/d/1viHbAcNWO8g4vvN3jwvBWXoeZ8KhH1u_/view?usp=drive_link)
+[Video_mechanism_synthesis](https://drive.google.com/file/d/1jEXNQRvezUwA6US2u8B5Pe1pSAgJ0gc_/view?usp=drive_link)
 
 📐 **SolidWorks Mechanism Sketch**  
-[Mechanism_synthesis_sketch](https://drive.google.com/file/d/1CGAuRVw8H5AQJzYyTVUxyiHpfodLPyKP/view?usp=drive_link)
+[Mechanism_synthesis_sketch-1](https://drive.google.com/file/d/1cG5SfRa2W47OBEFmOiQfYwpkE1jfV_Ii/view?usp=drive_link)
+[Mechanism_synthesis_sketch-2](https://drive.google.com/file/d/1Su_VywO-SUIyNIndkarsyElxTbAf9rgE/view?usp=drive_link)
